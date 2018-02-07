@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        TWAC2028
+tagline:      Change is coming.<br>The women are coming.<br><br><i><small>Sign up to change the world.</small></i>
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Tellher Vision
+  url:        https://twac2028.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
